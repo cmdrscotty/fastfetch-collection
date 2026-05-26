@@ -131,11 +131,11 @@
 			"key": "├─󰍹",
 			"keyColor": "yellow"
 		},
-	    {
-		 	"type": "wallpaper",
-		 	"key": "╰─󰸉",
-			"keyColor": "yellow"
-		 },
+	//   {
+	//	 	"type": "wallpaper",
+	//	 	"key": "╰─󰸉",
+	//		"keyColor": "yellow"
+	//	 },
 		{
 			"type": "memory",
 			"key": "├─󰑭",
