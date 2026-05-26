@@ -42,61 +42,62 @@
 		},
 		{
 			"type": "lm",
-			"key": "├─󰧨",
+			"key": "╰─󰧨",
 			"keyColor": "magenta"
 		},
-		{
-			"type": "theme",
-			"key": "├─󰉼",
-			"keyColor": "magenta"
-		},
-		{
-			"type": "icons",
-			"key": "╰─󰀻",
-			"keyColor": "magenta"
-		},
+		// {
+		//	"type": "theme",
+		//	"key": "├─󰉼",
+		//	"keyColor": "magenta"
+		// },
+		// {
+		//	"type": "icons",
+		//	"key": "╰─󰀻",
+		//	"keyColor": "magenta"
+		// },
 		"break",
-		// One entry for every partition
-		// {
-		// 	"type": "disk",
-		// 	"key": "├─",
-		// 	"keyColor": "green"
-		// },
-		// {
-		// 	"type": "brightness",
-		// 	"key": "├─󰃞",
-		// 	"keyColor": "green"
-		// },
-		// {
-		// 	"type": "battery",
-		// 	"key": "├─",
-		// 	"keyColor": "green"
-		// },
-		// {
-		// 	"type": "poweradapter",
-		// 	"key": "├─",
-		// 	"keyColor": "green"
-		// },
-		// {
-		// 	"type": "gamepad",
-		// 	"key": "├─",
-		// 	"keyColor": "green"
-		// },
-		// {
-		// 	"type": "bluetooth",
-		// 	"key": "├─",
-		// 	"keyColor": "green"
-		// },
-		// {
-		// 	"type": "sound",
-		// 	"key": "╰─",
-		// 	"keyColor": "green"
-		// },
-		{
+
+         {
 			"type": "terminal",
 			"key": "╭─",
 			"keyColor": "green"
-		},
+		 },	
+		 {
+		 	"type": "disk",
+			"key": "├─",
+		 	"keyColor": "green"
+		 },
+		// {
+		//	"type": "brightness",
+		// 	"key": "├─󰃞",
+		// 	"keyColor": "green"
+		// },
+		 {
+		 	"type": "battery",
+		 	"key": "├─",
+		 	"keyColor": "green"
+		 },
+		 {
+		 	"type": "poweradapter",
+		 	"key": "├─",
+		 	"keyColor": "green"
+		 },
+		 {
+		 	"type": "gamepad",
+		 	"key": "├─",
+		 	"keyColor": "green"
+		 },
+		 {
+		 	"type": "bluetooth",
+		 	"key": "├─",
+		 	"keyColor": "green"
+		 },
+		 {
+		 	"type": "sound",
+		 	"key": "├─",
+		 	"keyColor": "green"
+		 },
+		
 		{
 			"type": "terminalfont",
 			"key": "├─",
@@ -128,21 +129,21 @@
 			"key": "├─󰍹",
 			"keyColor": "yellow"
 		},
-		// {
-		// 	"type": "wallpaper",
-		// 	"key": "╰─󰸉",
-		// 	"keyColor": "yellow"
-		// },
+	    {
+		 	"type": "wallpaper",
+		 	"key": "╰─󰸉",
+			"keyColor": "yellow"
+		 },
 		{
 			"type": "memory",
 			"key": "├─󰑭",
 			"keyColor": "yellow"
 		},
-		// {
-		// 	"type": "swap",
-		// 	"key": "├─󰓡",
-		// 	"keyColor": "yellow"
-		// },
+		{
+		 	"type": "swap",
+			"key": "├─󰓡",
+		 	"keyColor": "yellow"
+		},
 		{
 			"type": "uptime",
 			"key": "╰─󰅐",
