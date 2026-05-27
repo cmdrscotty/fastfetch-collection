@@ -106,7 +106,7 @@
 
 <td>
 
-## [config.jsonc](configs/TF2Soldier-config)
+## [config.jsonc](configs/tf2soldier-config)
 
 </td>
 
