@@ -92,6 +92,14 @@
 
 ## [config.jsonc](configs/thinkpad-styled)
 
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
 <img width="980" height="414" alt="image" src="[https://github.com/user-attachments/assets/c3adefa8-34de-457e-aed0-2fbc55771d87](https://raw.githubusercontent.com/TehEpikBoi/tehepikboi-config/refs/heads/main/PNGs/Soldiertf2.webp)" />
 
 </td>
@@ -103,6 +111,10 @@
 </td>
 
 </tr>
+
+<tr>
+
+<td>
   
 </table>
 
