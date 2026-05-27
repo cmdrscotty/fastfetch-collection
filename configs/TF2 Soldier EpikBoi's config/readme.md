@@ -1,4 +1,4 @@
 >[!note]
 ># credit: [real github projet](https://github.com/Sarthak-Sidhant/thinkpad-fastfetch)
 
-<img width="1195" height="667" alt="image" src="https://github.com/user-attachments/assets/c3adefa8-34de-457e-aed0-2fbc55771d87](https://github.com/TehEpikBoi/tehepikboi-config/blob/main/PNGs/Soldiertf2.webp?raw=true" />
+<img width="1195" height="667" alt="image" src="[https://github.com/TehEpikBoi/tehepikboi-config/blob/main/PNGs/Soldiertf2.webp?raw=true](https://raw.githubusercontent.com/TehEpikBoi/tehepikboi-config/refs/heads/main/PNGs/Soldiertf2.webp)" />
