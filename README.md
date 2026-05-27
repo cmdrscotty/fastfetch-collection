@@ -156,6 +156,8 @@
 
 <td>
 
+## [config.jsonc](configs/kitty-cachyos)
+
 </td>
 
 </tr>
