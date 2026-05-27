@@ -123,13 +123,31 @@
 <td>
 
 ## [config.jsonc](configs/tf2soldier-config)
+configs/7.jsonc
+</td>
+
+</tr>
+
+<tr>
+
+<tr>
+
+<td>
+
+<img width="980" height="414" alt="7" src="https://github.com/user-attachments/assets/9ec4cbe3-723e-4db8-9432-74a4f5538ae3" />
+
+</td>
+
+<td>
+
+## [config.jsonc](configs/configs/7.jsonc)
 
 </td>
 
 </tr>
 
 <tr>
-  
+
 </table>
 
 ---
