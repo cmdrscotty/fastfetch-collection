@@ -165,7 +165,14 @@
 <tr>
 
 <td>
-<img src="configs/snoopy-mugiwara/preview.png width="980"   height="414" >
+
+<img width="880" height="414" alt="preview" src="https://github.com/user-attachments/assets/cbb3d434-f42c-4b35-be2b-77ad806feddd" />
+
+</td>
+
+<td>
+
+## [config.jsonc](configs/snoopy-mugiwara)
 
 </td>
 
