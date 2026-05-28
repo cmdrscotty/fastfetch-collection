@@ -148,7 +148,7 @@
 
 <td>
 
-<img width="980" height="414" alt="fastfetch" src="https://github.com/user-attachments/assets/a8c64901-516a-4e14-8b04-f3d67e2344f9" />
+<img width="980" height="414" alt="fastfetch" src="https://github.com/user-attachments/assets/e8cbcb8b-013e-44d3-a91f-10532d283f91" />
 
 </td>
 
